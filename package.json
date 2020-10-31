@@ -1,0 +1,25 @@
+{
+  "name": "ps4-alexa-waker",
+  "version": "1.0.0",
+  "description": "Small node script that wakes ps4 LAN via an Alexa skill.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deankevorkian/ps4-alexa-waker.git"
+  },
+  "keywords": [
+    "ps4",
+    "alexa",
+    "alexa-skill",
+    "wake-on-lan"
+  ],
+  "author": "Dean Kevorkian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deankevorkian/ps4-alexa-waker/issues"
+  },
+  "homepage": "https://github.com/deankevorkian/ps4-alexa-waker#readme"
+}
